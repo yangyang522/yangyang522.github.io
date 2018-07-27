@@ -1,4 +1,3 @@
-<img src="/me.jpg" width="100" height="100" align="center"/>
 ### About me
 I’m currently a master candidate majoring in Information Science, [School of Information Management](http://sim.whu.edu.cn), Wuhan University, under supervision of Prof. Luo Lin.
 
