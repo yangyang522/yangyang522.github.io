@@ -33,3 +33,6 @@ Luo Lin, **Yang Yang**
 6.[The Overview of Video Retrieval Technology Based on Semantics](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=RJDK201512012&uid=WEEvREcwSlJHSldRa1FhdkJkVWI3Nkh1eXdkSjFnQkh3b3BRVXF6aFcxdz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MTE0NjViRzRIOVROclk5RVpvUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTEtmWU9Sb0Z5cmhVcnZOTnlmUFo=),**Yang Yang**
 
 [Software Guide](http://www.rjdk.org),2015
+
+### Contact
+email:whu_yang@whu.edu.cn
