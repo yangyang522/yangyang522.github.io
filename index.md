@@ -1,13 +1,12 @@
 ### About me
 I’m currently a master candidate majoring in Information Science, [School of Information Management](http://sim.whu.edu.cn), Wuhan University, under supervision of Prof. Luo Lin.
 
-I received my bachelor degree of management majoring in Information Management and Information System, [School of Information Management](http://imd.ccnu.edu.cn/), Central China Normal University in June 30th, 2017. 
+I received my bachelor degree of management majoring in Information Management and Information System, [School of Information Management](http://imd.ccnu.edu.cn/), Central China Normal University in June 30th, 2017. And I also received a dual degree of literature majoring in English,[School of Foreign Languages](http://wy.ccnu.edu.cn/zy.htm),Central China Normal University.
 
 My research interests is information organization and retrieval.
 
 ### Publications
-
-1.[Analysis and Comparison of Hot Research on Ontology of Library and Information Science in Domestic and International](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2018&filename=XDQB201804021&uid=WEEvREcwSlJHSldRa1FhdkJkVWI3Nkh1eXdkSjFnQkh3b3BRVXF6aFcxdz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MjYwMTJUM3FUcldNMUZyQ1VSTEtmWU9Sb0Z5cm1VYi9QUFNuYWJMRzRIOW5NcTQ5SFpZUjhlWDFMdXhZUzdEaDE=)
+1.[Analysis and Comparison of Hot Research on Ontology of Library and Information Science in Domestic and International](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2018&filename=XDQB201804021&uid=WEEvREcwSlJHSldRa1FhdkJkVWI3Nkh1eXdkSjFnQkh3b3BRVXF6aFcxdz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MjYwMTJUM3FUcldNMUZyQ1VSTEtmWU9Sb0Z5cm1VYi9QUFNuYWJMRzRIOW5NcTQ5SFpZUjhlWDFMdXhZUzdEaDE=),
 
 Luo Lin, **Yang Yang**
 
@@ -18,3 +17,19 @@ Luo Lin, **Yang Yang**
 Luo Lin, **Yang Yang**
 
 [Documentation, Information & Knowledge](http://manu03.magtech.com.cn:81/Jweb_tsqb), 2018
+
+3.[大数据时代网络信息资源开发利用策略研究](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=RJDK201609047&uid=WEEvREcwSlJHSldRa1FhdkJkVWI3Nkh1eXdkSjFnQkh3b3BRVXF6aFcxdz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MDc5ODk5Zk1wbzlCWTRSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVJMS2ZZT1JvRnlyZ1ZMekJOeWZQWmJHNEg=),**Yang Yang**
+
+[Software Guide](http://www.rjdk.org),2016
+
+4.[决策树ID3算法及其改进](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=RJDK201608016&uid=WEEvREcwSlJHSldRa1FhdkJkVWI3Nkh1eXdkSjFnQkh3b3BRVXF6aFcxdz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MTIyNjBlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTEtmWU9Sb0Z5cmdWcjNOTnlmUFpiRzRIOWZNcDQ5RVlvUjg=),**Yang Yang**
+
+[Software Guide](http://www.rjdk.org),2016
+
+5.[Application of University Student's Science Research Based on AHP](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=KJCK201614007&uid=WEEvREcwSlJHSldRa1FhdkJkVWI3Nkh1eXdkSjFnQkh3b3BRVXF6aFcxdz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MjEyNjdTN0RoMVQzcVRyV00xRnJDVVJMS2ZZT1JvRnlyZ1Zidk9MaWZJWmJHNEg5Zk5xNDlGWTRSOGVYMUx1eFk=),**Yang Yang**
+
+[Pioneering with Science & Technology Monthly](http://www.zgkjcy.com/),2016
+
+6.[基于语义的视频检索技术综述](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=RJDK201512012&uid=WEEvREcwSlJHSldRa1FhdkJkVWI3Nkh1eXdkSjFnQkh3b3BRVXF6aFcxdz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MTE0NjViRzRIOVROclk5RVpvUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTEtmWU9Sb0Z5cmhVcnZOTnlmUFo=),**Yang Yang**
+
+[Software Guide](http://www.rjdk.org),2015
