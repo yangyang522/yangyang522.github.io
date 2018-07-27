@@ -18,11 +18,11 @@ Luo Lin, **Yang Yang**
 
 [Documentation, Information & Knowledge](http://manu03.magtech.com.cn:81/Jweb_tsqb), 2018
 
-3.[Research on the development and utilization strategy of network information resources in the era of big data](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=RJDK201609047&uid=WEEvREcwSlJHSldRa1FhdkJkVWI3Nkh1eXdkSjFnQkh3b3BRVXF6aFcxdz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MDc5ODk5Zk1wbzlCWTRSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVJMS2ZZT1JvRnlyZ1ZMekJOeWZQWmJHNEg=),**Yang Yang**
+3.[Research on the Development and Utilization Strategy of Network Information Resources in the Era of Big Data](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=RJDK201609047&uid=WEEvREcwSlJHSldRa1FhdkJkVWI3Nkh1eXdkSjFnQkh3b3BRVXF6aFcxdz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MDc5ODk5Zk1wbzlCWTRSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVJMS2ZZT1JvRnlyZ1ZMekJOeWZQWmJHNEg=),**Yang Yang**
 
 [Software Guide](http://www.rjdk.org),2016
 
-4.[Decision tree ID3 algorithm and its improvement](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=RJDK201608016&uid=WEEvREcwSlJHSldRa1FhdkJkVWI3Nkh1eXdkSjFnQkh3b3BRVXF6aFcxdz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MTIyNjBlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTEtmWU9Sb0Z5cmdWcjNOTnlmUFpiRzRIOWZNcDQ5RVlvUjg=),**Yang Yang**
+4.[Decision Tree ID3 Algorithm and Its Improvement](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=RJDK201608016&uid=WEEvREcwSlJHSldRa1FhdkJkVWI3Nkh1eXdkSjFnQkh3b3BRVXF6aFcxdz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MTIyNjBlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTEtmWU9Sb0Z5cmdWcjNOTnlmUFpiRzRIOWZNcDQ5RVlvUjg=),**Yang Yang**
 
 [Software Guide](http://www.rjdk.org),2016
 
@@ -30,6 +30,6 @@ Luo Lin, **Yang Yang**
 
 [Pioneering with Science & Technology Monthly](http://www.zgkjcy.com/),2016
 
-6.[Overview of video retrieval technology based on semantics](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=RJDK201512012&uid=WEEvREcwSlJHSldRa1FhdkJkVWI3Nkh1eXdkSjFnQkh3b3BRVXF6aFcxdz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MTE0NjViRzRIOVROclk5RVpvUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTEtmWU9Sb0Z5cmhVcnZOTnlmUFo=),**Yang Yang**
+6.[Overview of Video Retrieval Technology Based on Semantics](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=RJDK201512012&uid=WEEvREcwSlJHSldRa1FhdkJkVWI3Nkh1eXdkSjFnQkh3b3BRVXF6aFcxdz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MTE0NjViRzRIOVROclk5RVpvUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTEtmWU9Sb0Z5cmhVcnZOTnlmUFo=),**Yang Yang**
 
 [Software Guide](http://www.rjdk.org),2015
