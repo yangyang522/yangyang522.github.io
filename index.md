@@ -35,4 +35,4 @@ Luo Lin, **Yang Yang**
 [Software Guide](http://www.rjdk.org),2015
 
 ### Contact
-email:whu_yang@whu.edu.cn
+email:[whu_yang@whu.edu.cn](mailto:whu_yang@whu.edu.cn)
