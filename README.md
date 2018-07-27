@@ -1,2 +1,1 @@
-### About me
-Yang yang(杨洋)
+### Yang Yang's blog
