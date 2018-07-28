@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
-title: Yang Yang | Wuhan University
+title: Yang Yang
 name: Yang Yang
-author: Yang Yang
-headline: follow me 
 logo: me.jpg
+social:
+  links:
+    - "https://weibo.com/lishaoplant"
