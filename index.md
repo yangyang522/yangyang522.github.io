@@ -39,6 +39,10 @@ Luo Lin, **Yang Yang**
 
 2.The Third Prize (University Level) for Band C in 2015 National English Contest for College Students
 
+3.Boya Odoratus Scholarship,Central China Normal University
+
+4.Boya Aurantiacus Scholarship,Central China Normal University
+
 ### Certificate
 Test for English Majors-Band 8,2017
 
