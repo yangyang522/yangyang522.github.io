@@ -35,7 +35,11 @@ Luo Lin, **Yang Yang**
 [Software Guide](http://www.rjdk.org),2015
 
 ### Awards
-The 1st China College Students' "Internet+" Innovation and Entrepreneurship Competition, Hubei Province Rematch,Practice Competition Gold Medal,2016
+1.The 1st China College Students' "Internet+" Innovation and Entrepreneurship Competition, Hubei Province Rematch,Practice Competition Gold Medal,2016
+2.The Third Prize (University Level) for Band C in 2015 National English Contest for College Students
+
+### Certificate
+Test for English Majors-Band 8,2017
 
 ### Contact
 email:[whu_yang@whu.edu.cn](mailto:whu_yang@whu.edu.cn)
