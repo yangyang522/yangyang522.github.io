@@ -36,6 +36,7 @@ Luo Lin, **Yang Yang**
 
 ### Awards
 1.The 1st China College Students' "Internet+" Innovation and Entrepreneurship Competition, Hubei Province Rematch,Practice Competition Gold Medal,2016
+
 2.The Third Prize (University Level) for Band C in 2015 National English Contest for College Students
 
 ### Certificate
