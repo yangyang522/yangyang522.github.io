@@ -1,12 +1,25 @@
 theme: jekyll-theme-minimal
+# 用户头像
 logo: me.jpg
+# 网页的title
 title: Yang Yang - Wuhan University
+# 用户的名字（主页标题）
 name: Yang Yang
+# 网站seo时的描述信息
 description: Yang Yang's resume
+# 主页副标题
 subtitle: A master candidate
+# 毕业（在读）院校
+school: School of Information Management, Wuhan University
+# 邮箱
+email: whu_yang@whu.edu.cn
+# 网页底部描述信息
 footer:
+  # 网站建立时间
   since: 2018
-  copyright: Yang Yang
+  # 版权所有者
+  copyright: Yang Yang　
+  # 是否显示theme的描述信息
   theme:
     enable: false
   
