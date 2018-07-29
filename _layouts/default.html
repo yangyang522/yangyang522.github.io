@@ -55,7 +55,7 @@
       <footer>
         <p>
           &copy;
-          {{% if site.footer.since && site.footer.since != new Date().getFullYear() %}}
+          {{% if site.footer.since %}}
             {{site.footer.since}} - 
           {{% endif %}}
           <span id="current-year"></span>
@@ -69,9 +69,9 @@
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        {{% if site.footer.theme.enable %}}
+        <!--{{% if site.footer.theme.enable %}}
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-        {{% endif %}}
+        {{% endif %}}-->
         
       </footer>
     </div>
