@@ -1,3 +1,11 @@
 theme: jekyll-theme-minimal
-title: Yang Yang
 logo: me.jpg
+title: Yang Yang || Wuhan University
+name: Yang Yang
+description: A master candidate
+footer:
+  since: 2018
+  copyright: Yang Yang
+  theme:
+    enable: false
+  
