@@ -18,8 +18,17 @@
     <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+    <style>
+      .text-center{
+        text-align: center;
+      }
+      .profile {
+        color: gray;
+        font-weight: blod;
+      }
+    </style>
   </head>
-  <body>
+   <body>
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.name | default: site.github.repository_name }}</a></h1>
@@ -31,14 +40,15 @@
         <p>{{ site.subtitle }}</p>
         {{% endif %}}
         
-        {{% if site.school %}}
-        <p>{{ site.school }}</p>
-        {{% endif %}}
-        
-        {{% if site.email %}}
-        <p>{{ site.email }}</p>
-        {{% endif %}}
+        <div class="text-center profile">
+          {{% if site.school %}}
+          <p>{{ site.school }}</p>
+          {{% endif %}}
 
+          {{% if site.email %}}
+          <p><a href="mailto:{{site.email}}">{{ site.email }}</a></p>
+          {{% endif %}}
+        </div>
         <!--{% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
