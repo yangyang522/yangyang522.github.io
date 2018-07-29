@@ -7,6 +7,5 @@ subtitle: A master candidate
 footer:
   since: 2018
   copyright: Yang Yang
-  theme:
-    enable: false
+  theme-enable: false
   
