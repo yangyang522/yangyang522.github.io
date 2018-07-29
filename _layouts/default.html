@@ -55,24 +55,24 @@
       <footer>
         <p>
           &copy;
-          {{% if site.footer.since %}}
+          {% if site.footer.since %}
             {{site.footer.since}} - 
-          {{% endif %}}
+          {% endif %}
           <span id="current-year"></span>
           <script type="text/javascript">
             document.getElementById("current-year").innerHTML = new Date().getFullYear();
           </script>
-          {{% if site.footer.copyright %}}
+          {% if site.footer.copyright %}
             {{site.footer.copyright}}
-          {{% endif %}}
+          {% endif %}
         </p>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        {{% if site.footer.theme-enable == true %}}
+        {% if site.footer.theme-enable == true %}
         {{site.footer.theme-enable}}
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-        {{% endif %}}
+        {% endif %}
         
       </footer>
     </div>
