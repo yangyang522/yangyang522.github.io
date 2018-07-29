@@ -53,13 +53,13 @@
       </section>
       <footer>
         <p>
-          &copyright;
+          &copy;
           {{% if site.footer.since %}}
             {{site.footer.since}} - 
           {{% endif %}}
           <span id="current-year"></span>
           <script type="text/javascript">
-            document.getElementById("current-year").innderHTML = new Date().getFullYear();
+            document.getElementById("current-year").innerHTML = new Date().getFullYear();
           </script>
           {{% if site.footer.copyright %}}
             {{site.footer.copyright}}
