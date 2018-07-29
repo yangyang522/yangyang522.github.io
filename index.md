@@ -45,7 +45,3 @@ Luo Lin, **Yang Yang**
 
 ### Certificate
 Test for English Majors-Band 8,2017
-
-### Contact
-email:[whu_yang@whu.edu.cn](mailto:whu_yang@whu.edu.cn)
-
