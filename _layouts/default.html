@@ -18,10 +18,15 @@
     <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+    <style>
+      .text-center {
+        text-align: center;
+      }
+    </style>
    </head>
    <body>
     <div class="wrapper">
-      <header>
+      <header class="text-center">
         <h1><a href="{{ "/" | absolute_url }}">{{ site.name | default: site.github.repository_name }}</a></h1>
         
         {% if site.logo %}
@@ -61,7 +66,7 @@
       {{ content }}
 
       </section>
-      <footer>
+      <footer class="text-center">
         <p>
           &copy;
           {% if site.footer.since %}
