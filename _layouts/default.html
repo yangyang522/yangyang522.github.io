@@ -30,6 +30,14 @@
         {{% if site.subtitle %}}
         <p>{{ site.subtitle }}</p>
         {{% endif %}}
+        
+        {{% if site.school %}}
+        <p>{{ site.school }}</p>
+        {{% endif %}}
+        
+        {{% if site.email %}}
+        <p>{{ site.email }}</p>
+        {{% endif %}}
 
         <!--{% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
@@ -54,7 +62,6 @@
       </section>
       <footer>
         <p>
-          {{new Date().getFullYear()}}
           &copy;
           {% if site.footer.since %}
             {{site.footer.since}} - 
