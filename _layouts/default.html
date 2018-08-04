@@ -37,13 +37,13 @@
         {{% endif %}}
         
         <div >
-          {{% if site.school %}}
+          {% if site.school %}
           <p>{{ site.school }}</p>
-          {{% endif %}}
+          {% endif %}
 
-          {{% if site.email %}}
+          {% if site.email %}
           <p><a href="mailto:{{site.email}}">{{ site.email }}</a></p>
-          {{% endif %}}
+          {% endif %}
         </div>
         <!--{% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
@@ -78,6 +78,9 @@
           </script>
           {% if site.footer.copyright %}
             {{site.footer.copyright}}
+          {% endif %}
+          {% if site.footer.lastUpdated %}
+            last updated: {{site.footer.lastUpdated}}
           {% endif %}
         </p>
         {% if site.github.is_project_page %}
