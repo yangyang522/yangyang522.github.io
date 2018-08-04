@@ -22,4 +22,5 @@ footer:
   # 是否显示theme的描述信息
   theme:
     enable: false
+  lastUpdated: July 29, 2018
   
