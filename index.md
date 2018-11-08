@@ -35,13 +35,15 @@ Luo Lin, **Yang Yang**
 [Software Guide](http://www.rjdk.org),2015
 
 ### Awards
-1.The 1st China College Students' "Internet+" Innovation and Entrepreneurship Competition, Hubei Province Rematch,Practice Competition Gold Medal,2016
+1.National Scholarship, Wuhan University,2018
 
-2.The Third Prize (University Level) for Band C in 2015 National English Contest for College Students
+2.The 1st China College Students' "Internet+" Innovation and Entrepreneurship Competition, Hubei Province Rematch,Practice Competition Gold Medal,2016
 
-3.Boya Odoratus Scholarship,Central China Normal University
+3.The Third Prize (University Level) for Band C in 2015 National English Contest for College Students
 
-4.Boya Aurantiacus Scholarship,Central China Normal University
+4.Boya Odoratus Scholarship,Central China Normal University
+
+5.Boya Aurantiacus Scholarship,Central China Normal University
 
 ### Certificate
 Test for English Majors-Band 8,2017
