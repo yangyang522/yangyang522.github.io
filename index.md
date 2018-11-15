@@ -37,13 +37,15 @@ Luo Lin, **Yang Yang**
 ### Awards
 1.National Scholarship, Wuhan University,2018
 
-2.The 1st China College Students' "Internet+" Innovation and Entrepreneurship Competition, Hubei Province Rematch,Practice Competition Gold Medal,2016
+2.The Second Prize Academic Scholarship, Wuhan University, 2018
 
-3.The Third Prize (University Level) for Band C in 2015 National English Contest for College Students
+3.The 1st China College Students' "Internet+" Innovation and Entrepreneurship Competition, Hubei Province Rematch,Practice Competition Gold Medal,2016
 
-4.Boya Odoratus Scholarship,Central China Normal University
+4.The Third Prize (University Level) for Band C in 2015 National English Contest for College Students
 
-5.Boya Aurantiacus Scholarship,Central China Normal University
+5.Boya Odoratus Scholarship,Central China Normal University
+
+6.Boya Aurantiacus Scholarship,Central China Normal University
 
 ### Certificate
 Test for English Majors-Band 8,2017
